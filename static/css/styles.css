@@ -1,0 +1,32 @@
+body {
+    background: #f4f7fb;
+    color: #212529;
+}
+
+.navbar {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    color: #0d6efd;
+}
+
+.btn-primary,
+.btn-success {
+    min-width: 140px;
+}
+
+.alert {
+    border-radius: 0.6rem;
+}
+
+footer {
+    margin-top: 3rem;
+    padding: 1rem 0;
+    text-align: center;
+    color: #6c757d;
+}
